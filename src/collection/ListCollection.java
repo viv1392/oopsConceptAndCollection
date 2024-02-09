@@ -45,8 +45,5 @@ public class ListCollection {
 		System.out.println("After add the list : "+list1);
 		list1.removeAll(list);
 		System.out.println("After removing all elements from list1 :" + list1);
-		
-		
-		
 	}
 }
